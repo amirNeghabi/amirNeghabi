@@ -1,95 +1,122 @@
-<h1 align="center">Hi 👋, I'm AmirReza Neghabi</h1>
-<h3 align="center">Backend Developer | Python • Django • FastAPI</h3>
+<h1 align="center">Hi there 👋 I'm AmirReza Neghabi</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
-</p>
-
----
-
-## 🚀 About Me  
-I'm a passionate **Backend Developer** who enjoys building scalable, secure, and production-ready web applications.  
-My main stack is **Python + Django + FastAPI**, and I love working with **Linux, Docker, and Networking** concepts to deploy real-world systems.
-
----
-
-## 🛠 Tech Stack  
-
-### **Backend & Programming**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-### **DevOps & System**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
-
-### **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
----
-
-## ⭐ Highlighted Projects
-
-### 📚 **Online Bookstore Website – Django + Docker**
-A complete bookstore platform with:
-- User authentication  
-- Cart & payment simulation  
-- Admin panel  
-- Clean frontend (CSS + JS)  
-- Fully Dockerized  
-🔗 **Link:** *(Add your GitHub repo link here)*  
-
----
-
-### 🛒 **E-Commerce Platform – Django**
-Features:
-- Product management  
-- Categories & filters  
-- User panel  
-- Secure sessions & forms  
-🔗 **Link:** *(Add repo link)*  
-
----
-
-### 📝 **Blog Website – Django**
-A simple but powerful blogging platform with:
-- CRUD posts  
-- Tags & categories  
-- Beautiful UI  
-🔗 **Link:** *(Add repo link)*  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="streak stats"/>
+  <!-- Animated waving hand SVG -->
+  <svg width="60" height="60" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <g transform="translate(50 50)">
+      <g id="hand" transform="rotate(0)">
+        <path d="M-8 -10 q-6 -12 0 -20 q8 -8 16 0 q6 8 2 18 q-4 10 -10 12 q-8 2 -8 -10 z" fill="#FFD28A" stroke="#E3A04D" stroke-width="1"/>
+      </g>
+      <animateTransform xlink:href="#hand" attributeName="transform" type="rotate"
+        values="0;20;-20;15;-10;0" dur="2s" repeatCount="indefinite"/>
+    </g>
+  </svg>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="stats"/>
+  <strong>Backend Developer (Python) — Django • FastAPI • Docker</strong>
 </p>
+
+---
+
+## 🚀 About Me
+I'm a backend developer focused on building practical, scalable, and clean backend systems using **Python**.  
+I'm not fully professional yet, but I'm actively learning, practicing, and working on real-world projects with Django and FastAPI.  
+I enjoy improving my skills, learning new technologies, and working on production-ready code.
+
+---
+
+## 🛠 Skills (Honest & Categorized)
+
+### 🔹 Programming Languages
+- **Python** — main development language  
+- **C++** — familiar with syntax, OOP, and fundamentals  
+
+### 🔹 Frameworks
+- **Django** — experience building blog, store, and bookshop systems  
+- **FastAPI** — building fast APIs with async patterns and OpenAPI docs  
+
+### 🔹 Databases
+- **SQLite** — used for development and small projects  
+- **PostgreSQL** — preferred for production setups  
+- **MySQL** — familiar with structure and queries  
+
+### 🔹 Frontend (Basics)
+- **HTML**  
+- **CSS**  
+
+### 🔹 Tools & Technologies
+- **Git**  
+- **GitHub**  
+- **Docker** — containerizing backend apps  
+- **Linux** — using Linux for dev/testing  
+- **NumPy** — for numerical operations  
+- **Pandas** — for data processing and analysis  
+
+---
+
+## 📌 Highlighted Projects
+
+### 📚 Bookstore Website — Django + Docker
+A functional bookstore application with authentication, admin panel, product pages, and Docker support for deployment.
+
+### 🛒 Store Management Website — Django
+Product categories, filtering, admin management, and clean backend architecture.
+
+### 📝 Blog Platform — Django
+CRUD system, tags, published/draft logic, and admin management.
+
+---
+
+## 💡 My Current Level
+> I’m still learning and improving, but I have hands-on experience with real projects and enjoy building clean backend logic.  
+> If you're looking for someone committed, motivated, and fast-learner — I'm a great fit to collaborate with.
+
+---
+
+## ⭐ Why Work With Me?
+- Solid understanding of **Python backend development**  
+- Experience building multiple **Django** and **FastAPI** projects  
+- Ability to **containerize applications** with Docker  
+- Structured, clean code and willingness to improve  
+- Interested in long-term growth and collaboration  
+- Responsible, consistent, and eager to receive feedback  
+
+---
+
+## 📬 Contact Me
+- Email: **your-email@example.com**  
+- LinkedIn: **your-linkedin-url**  
+- GitHub: https://github.com/amirNeghabi  
+
+(Replace contact links with your real ones)
+
+---
+
+## 📈 GitHub Activity
+<p align="center">
+  <svg width="160" height="24" viewBox="0 0 160 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <g transform="translate(10,12)">
+      <circle cx="0" cy="0" r="4">
+        <animate attributeName="r" values="4;8;4" dur="1.2s" repeatCount="indefinite" begin="0s"/>
+        <animate attributeName="opacity" values="1;0.3;1" dur="1.2s" repeatCount="indefinite" begin="0s"/>
+      </circle>
+      <circle cx="40" cy="0" r="4" fill-opacity="0.8">
+        <animate attributeName="r" values="4;8;4" dur="1.2s" repeatCount="indefinite" begin="0.2s"/>
+        <animate attributeName="opacity" values="1;0.3;1" dur="1.2s" repeatCount="indefinite" begin="0.2s"/>
+      </circle>
+      <circle cx="80" cy="0" r="4" fill-opacity="0.6">
+        <animate attributeName="r" values="4;8;4" dur="1.2s" repeatCount="indefinite" begin="0.4s"/>
+        <animate attributeName="opacity" values="1;0.3;1" dur="1.2s" repeatCount="indefinite" begin="0.4s"/>
+      </circle>
+    </g>
+  </svg>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&layout=compact&theme=tokyonight" alt="languages"/>
+If you want a fully customized version (English-only, dark theme, badges, stats, shields, or animations),
+just tell me and I will generate it exactly the way you want. ⭐
 </p>
 
----
-
-## 📫 Contact Me
-- **Email:** your-email@example.com  
-- **LinkedIn:** *(your link)*  
-
----
-
-<p align="center">⭐ If you like my work, consider giving my repositories a star!</p>
