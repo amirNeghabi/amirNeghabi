@@ -1,8 +1,9 @@
+
 <div align="center">
 
 # 🚀 Welcome to My Digital Workshop
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Python+Backend+Developer+%F0%9F%90%8D;Django+Specialist+%7C+Network+Engineer;Linux+System+Administrator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Python+Backend+Developer+%F0%9F%90%8D;Django+Framework+Specialist;Building+Scalable+Web+Applications" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -15,13 +16,11 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
-#!/usr/bin/env python3
-
 class SeniorPythonDeveloper:
     def __init__(self):
         self.name = "Your Name"
         self.role = "Senior Backend Developer"
-        self.primary_language = "Python 🐍"
+        self.primary_language = "Python"
         self.specialization = "Django Framework"
         self.experience = {
             "Backend Development": "Expert",
@@ -32,12 +31,12 @@ class SeniorPythonDeveloper:
         
     def daily_routine(self):
         return [
-            "☕ Coffee + Code",
-            "🔧 Build scalable Django APIs",
-            "🌐 Configure network infrastructure", 
-            "🐧 Optimize Linux systems",
-            "📚 Learn new technologies",
-            "🚀 Deploy with Docker"
+            "Coffee + Code",
+            "Build scalable Django APIs",
+            "Configure network infrastructure", 
+            "Optimize Linux systems",
+            "Learn new technologies",
+            "Deploy with Docker"
         ]
     
     def get_expertise(self):
