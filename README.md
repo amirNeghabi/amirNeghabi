@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 🚀 Welcome to My Digital Workshop
@@ -15,51 +14,42 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```python
-class SeniorPythonDeveloper:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "Senior Backend Developer"
-        self.primary_language = "Python"
-        self.specialization = "Django Framework"
-        self.experience = {
-            "Backend Development": "Expert",
-            "Network Engineering": "Advanced",
-            "Linux Administration": "Advanced",
-            "System Architecture": "Proficient"
-        }
-        
-    def daily_routine(self):
-        return [
-            "Coffee + Code",
-            "Build scalable Django APIs",
-            "Configure network infrastructure", 
-            "Optimize Linux systems",
-            "Learn new technologies",
-            "Deploy with Docker"
-        ]
-    
-    def get_expertise(self):
-        return """
-        I'm a passionate Python developer with deep expertise in 
-        Django framework, specializing in building robust, scalable 
-        backend systems. My skill set extends beyond development to 
-        include network engineering and Linux system administration, 
-        allowing me to architect complete solutions from code to 
-        infrastructure.
-        """
+### Hi there! I'm a Senior Python Backend Developer 👋
 
-developer = SeniorPythonDeveloper()
-print(developer.get_expertise())
-```
+I'm a passionate **Python developer** with deep expertise in **Django framework**, specializing in building robust and scalable backend systems. My skill set extends beyond development to include **network engineering** and **Linux system administration**, allowing me to architect complete solutions from code to infrastructure.
 
-### 🎯 Core Competencies
+### 🎯 What I Do Daily
 
-- 🐍 **Python Mastery**: Building enterprise-grade applications with clean, maintainable code
-- 🎨 **Django Expert**: Creating RESTful APIs, complex database models, and authentication systems
-- 🌐 **Network Engineering**: TCP/IP, DNS, routing protocols, firewall configuration, and network security
-- 🐧 **Linux Administration**: Server management, shell scripting, system optimization, and automation
-- 🔒 **Security-First Mindset**: Implementing best practices for secure applications and infrastructure
+- ☕ Start my day with coffee and clean code
+- 🔧 Build scalable Django REST APIs
+- 🌐 Configure and optimize network infrastructure
+- 🐧 Manage and automate Linux systems
+- 📚 Continuously learn new technologies
+- 🚀 Deploy applications using Docker
+
+### 💡 My Expertise
+
+As a **Senior Backend Developer**, I specialize in creating enterprise-grade applications with clean, maintainable code. My primary focus is on **Django framework** where I excel at:
+
+- Designing and implementing RESTful APIs
+- Building complex database architectures
+- Developing secure authentication and authorization systems
+- Optimizing application performance
+
+Beyond backend development, I bring valuable skills in:
+
+- **Network Engineering**: TCP/IP protocols, DNS configuration, routing, firewall setup, and network security
+- **Linux System Administration**: Server management, Bash scripting, system monitoring, and automation
+- **Security Best Practices**: Implementing robust security measures across applications and infrastructure
+
+### 📊 Quick Stats
+
+- 👤 **Name**: Amir Neghabi
+- 💼 **Role**: Senior Backend Developer
+- 🐍 **Primary Language**: Python
+- 🎯 **Specialization**: Django Framework
+- 📅 **Joined GitHub**: April 10, 2024
+- 🌟 **Level**: Expert in Backend Development | Advanced in Network & Linux
 
 ---
 
@@ -193,20 +183,20 @@ print(developer.get_expertise())
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amirNeghabi&theme=react-dark&hide_border=true&area=true" width="100%">
 
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub+Statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=amirNeghabi&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub+Statistics" />
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amirNeghabi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=450" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirNeghabi&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=450" />
 
 </div>
 
@@ -216,7 +206,7 @@ print(developer.get_expertise())
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=amirNeghabi&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 
 </div>
 
@@ -226,59 +216,102 @@ print(developer.get_expertise())
 
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  🏗️  BACKEND ARCHITECTURE                                   ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║                                                              ║
-║  ⚡ RESTful APIs with Django REST Framework                 ║
-║  🔐 Authentication & Authorization Systems                   ║
-║  📊 Complex Database Design & Optimization                   ║
-║  🌐 Network Infrastructure & Configuration                   ║
-║  🐧 Linux Server Management & Automation                     ║
-║  🐳 Containerized Applications with Docker                   ║
-║  📡 Real-time Data Processing Pipelines                      ║
-║  🔧 CI/CD Pipeline Implementation                            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### 🏗️ Backend Architecture & Infrastructure
+
+I specialize in building enterprise-level backend systems with focus on:
+
+**⚡ RESTful API Development**
+- Designing and implementing scalable APIs using Django REST Framework
+- Building high-performance endpoints that handle thousands of requests
+- Creating comprehensive API documentation
+
+**🔐 Security & Authentication**
+- Implementing JWT-based authentication systems
+- Role-based access control (RBAC)
+- OAuth2 integration and security best practices
+
+**📊 Database Architecture**
+- Complex database design and optimization
+- Query optimization for better performance
+- Data modeling for scalable applications
+
+**🌐 Network Infrastructure**
+- TCP/IP stack configuration and troubleshooting
+- DNS management and domain configuration
+- VPN setup and secure tunneling
+- Load balancing and high availability setup
+- Firewall configuration and network security
+
+**🐧 Linux System Management**
+- Ubuntu/Debian/CentOS server administration
+- Bash scripting for automation tasks
+- System monitoring and performance tuning
+- Security hardening and best practices
+- CI/CD pipeline configuration
+
+**🐳 Containerization & Deployment**
+- Docker containerization of applications
+- Multi-container orchestration
+- Production-ready deployment strategies
+
+**📡 Real-time Processing**
+- Building data processing pipelines
+- Real-time data handling and streaming
+- Background task management with Celery
 
 </div>
 
-### 🎨 My Development Philosophy
+---
 
-```python
-class DevelopmentPrinciples:
-    """
-    My approach to building software that matters
-    """
-    principles = {
-        "Clean Code": "Write code that humans can read and maintain",
-        "Scalability": "Design systems that grow with business needs",
-        "Security": "Security is not optional, it's fundamental",
-        "Performance": "Optimize for speed without sacrificing quality",
-        "Documentation": "Good docs save time and prevent headaches",
-        "Testing": "Test early, test often, deploy confidently"
-    }
-    
-    infrastructure_expertise = {
-        "Network": [
-            "TCP/IP Stack Configuration",
-            "DNS & Domain Management", 
-            "VPN & Secure Tunneling",
-            "Load Balancing & HA Setup",
-            "Firewall Rules & Security"
-        ],
-        "Linux_Systems": [
-            "Ubuntu/Debian/CentOS Administration",
-            "Bash Scripting & Automation",
-            "System Monitoring & Logging",
-            "Performance Tuning",
-            "Security Hardening"
-        ]
-    }
-```
+## 🎨 My Development Philosophy
+
+### Core Principles I Follow:
+
+**✨ Clean Code**
+- Writing code that humans can easily read and maintain
+- Following PEP 8 standards and best practices
+- Comprehensive code documentation
+
+**🚀 Scalability**
+- Designing systems that grow seamlessly with business needs
+- Thinking ahead about performance bottlenecks
+- Building with future expansion in mind
+
+**🔒 Security First**
+- Security is not optional, it's fundamental
+- Implementing security at every layer
+- Regular security audits and updates
+
+**⚡ Performance**
+- Optimizing for speed without sacrificing code quality
+- Database query optimization
+- Efficient algorithm implementation
+
+**📖 Documentation**
+- Good documentation saves time and prevents headaches
+- Clear API documentation
+- Comprehensive README files
+
+**🧪 Testing**
+- Test early, test often, deploy confidently
+- Unit tests and integration tests
+- Continuous integration practices
+
+### 🎯 Areas of Expertise:
+
+**Network Engineering Skills:**
+- TCP/IP Stack Configuration
+- DNS & Domain Management
+- VPN & Secure Tunneling
+- Load Balancing & High Availability
+- Firewall Rules & Network Security
+
+**Linux System Administration:**
+- Ubuntu/Debian/CentOS Server Management
+- Bash Scripting & Task Automation
+- System Monitoring & Log Analysis
+- Performance Optimization
+- Security Hardening & Best Practices
 
 ---
 
@@ -290,24 +323,30 @@ class DevelopmentPrinciples:
 <tr>
 <td width="50%">
 
-### 🔥 Project Highlight #1
-**Enterprise Django Application**
-- 🎯 RESTful API with 50+ endpoints
-- 🔐 JWT Authentication & Role-based access
-- 📊 PostgreSQL with complex relationships
-- 🚀 Docker deployment ready
-- 📈 Handles 10K+ requests/minute
+### 🔥 Enterprise Django Application
+
+**Key Features:**
+- RESTful API with 50+ endpoints
+- JWT Authentication with role-based access control
+- PostgreSQL database with complex relationships
+- Docker containerization for easy deployment
+- Handles 10,000+ requests per minute
+- Comprehensive API documentation
+- Unit and integration test coverage
 
 </td>
 <td width="50%">
 
-### 💎 Project Highlight #2
-**Network Automation Suite**
-- 🌐 Python-based network configuration
-- 🔧 Automated device management
-- 📡 Real-time monitoring dashboard
-- 🐧 Linux server orchestration
-- 🔒 Security compliance automation
+### 💎 Network Automation Suite
+
+**Key Features:**
+- Python-based network device configuration
+- Automated infrastructure management
+- Real-time monitoring dashboard
+- Linux server orchestration
+- Security compliance automation
+- Multi-vendor device support
+- Scheduled task execution
 
 </td>
 </tr>
@@ -328,19 +367,25 @@ class DevelopmentPrinciples:
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&style=flat-square)](YOUR_PORTFOLIO_URL)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=flat-square)](YOUR_TELEGRAM)
 
-### 💬 Open for
+### 💬 Open for Opportunities
 
-```python
-opportunities = [
-    "🤝 Collaboration on Django projects",
-    "💼 Freelance backend development", 
-    "🎓 Mentoring junior developers",
-    "🔧 Open source contributions",
-    "🌐 Network engineering consulting"
-]
-```
+I'm actively looking for:
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+- 🤝 **Collaboration on Django Projects** - Let's build something amazing together
+- 💼 **Freelance Backend Development** - Available for contract work
+- 🎓 **Mentoring Junior Developers** - Sharing knowledge and helping others grow
+- 🔧 **Open Source Contributions** - Contributing to meaningful projects
+- 🌐 **Network Engineering Consulting** - Infrastructure design and optimization
+
+### 🎯 Current Focus
+
+- Building scalable Django applications
+- Exploring advanced Python patterns
+- Learning cloud infrastructure (AWS/Azure)
+- Contributing to open-source projects
+- Writing technical blog posts
+
+<img src="https://komarev.com/ghpvc/?username=amirNeghabi&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
 
 ### ⭐ If you like my work, consider starring my repositories!
 
@@ -353,6 +398,8 @@ opportunities = [
 <div align="center">
 
 ### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**Member since April 10, 2024** | **Continuously Learning & Building**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
