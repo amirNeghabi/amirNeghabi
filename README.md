@@ -69,18 +69,14 @@ Beyond backend development, I bring valuable skills in:
 <td align="center" width="150">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65" height="65" />
 <br><strong>C++</strong>
-<br><sub>Advanced</sub>
+
 </td>
 <td align="center" width="150">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" />
 <br><strong>Linux</strong>
 <br><sub>System Admin</sub>
 </td>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="65" height="65" />
-<br><strong>Bash</strong>
-<br><sub>Scripting</sub>
-</td>
+
 </tr>
 </table>
 
