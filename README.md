@@ -49,7 +49,7 @@ Beyond backend development, I bring valuable skills in:
 - 🐍 **Primary Language**: Python
 - 🎯 **Specialization**: Django Framework
 - 📅 **Joined GitHub**: April 10, 2024
-- 🌟 **Level**: Expert in Backend Development | Advanced in Network & Linux
+- 🌟 **Level**: Expert in Backend Development | Advanced in Network 
 
 ---
 
