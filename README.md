@@ -39,7 +39,7 @@ As a **Senior Backend Developer**, I specialize in creating enterprise-grade app
 Beyond backend development, I bring valuable skills in:
 
 - **Network Engineering**: TCP/IP protocols, DNS configuration, routing, firewall setup, and network security
-- **Linux System Administration**: Server management, Bash scripting, system monitoring, and automation
+
 - **Security Best Practices**: Implementing robust security measures across applications and infrastructure
 
 ### 📊 Quick Stats
@@ -70,12 +70,7 @@ Beyond backend development, I bring valuable skills in:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65" height="65" />
 <br><strong>C++</strong>
 
-</td>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" />
-<br><strong>Linux</strong>
-<br><sub>System Admin</sub>
-</td>
+
 
 </tr>
 </table>
@@ -90,12 +85,7 @@ Beyond backend development, I bring valuable skills in:
 <br><sub>Primary Framework</sub>
 <br><sub>⭐⭐⭐⭐⭐</sub>
 </td>
-<td align="center" width="200">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="80" height="80" />
-<br><strong>FastAPI</strong>
-<br><sub>Modern APIs</sub>
-<br><sub>⭐⭐⭐⭐</sub>
-</td>
+
 </tr>
 </table>
 
