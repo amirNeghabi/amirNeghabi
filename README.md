@@ -133,20 +133,6 @@ Beyond backend development, I bring valuable skills in:
 </tr>
 </table>
 
-### 📊 Data Science & Analysis
-
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65" height="65" />
-<br><strong>NumPy</strong>
-</td>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" height="65" />
-<br><strong>Pandas</strong>
-</td>
-</tr>
-</table>
 
 ### 🔧 DevOps & Tools
 
@@ -163,11 +149,7 @@ Beyond backend development, I bring valuable skills in:
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" />
 <br><strong>Docker</strong>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="65" height="65" />
-<br><strong>Nginx</strong>
-</td>
+
 </tr>
 </table>
 
