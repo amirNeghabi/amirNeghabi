@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My Digital Workshop
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Python+Backend+Developer+%F0%9F%90%8D;Django+Framework+Specialist;Building+Scalable+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Python+Backend+Developer+%F0%9F%90%8D;Django+Backend+Development;Building+Practical+Web+Applications" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -14,42 +14,57 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### Hi there! I'm a AmirReza Neghabi 👋
+### Hi there! I'm AmirReza Neghabi 👋
 
-I'm a passionate **Python developer** with deep expertise in **Django framework**, specializing in building robust and scalable backend systems. My skill set extends beyond development to include **network engineering** and **Linux system administration**, allowing me to architect complete solutions from code to infrastructure.
+I'm a backend developer focused on **Python and Django**, interested in building practical web applications and improving my backend development skills through hands-on projects.
 
-### 🎯 What I Do Daily
+My main focus is Django backend development, including application logic, database modeling, authentication, authorization, security, testing, and performance.
 
-- ☕ Start my day with coffee and clean code
-- 🔧 Build scalable Django REST APIs
-- 🌐 Configure and optimize network infrastructure
-- 🐧 Manage and automate Linux systems
-- 📚 Continuously learn new technologies
-- 🚀 Deploy applications using Docker
+I also have foundational knowledge of **computer networks**, including basic concepts related to TCP/IP, DNS, HTTP/HTTPS, routing, and network communication.
 
-### 💡 My Expertise
+### 🎯 What I Work On
 
-As a **Senior Backend Developer**, I specialize in creating enterprise-grade applications with clean, maintainable code. My primary focus is on **Django framework** where I excel at:
+* 🐍 Backend development with Python and Django
+* 🗄️ Relational databases and Django ORM
+* 🔐 Authentication and access-control workflows
+* 🛒 E-commerce and business logic
+* ⚡ Query optimization and backend performance
+* 🧪 Automated testing for important workflows
+* 🐳 Docker-based development environments
+* 🤖 Python bots for Telegram and Bale
+* 🌐 Fundamental networking concepts
+* 📚 Continuous learning and project-based development
 
-- Designing and implementing RESTful APIs
-- Building complex database architectures
-- Developing secure authentication and authorization systems
-- Optimizing application performance
+### 💡 My Main Focus
 
-Beyond backend development, I bring valuable skills in:
+My primary focus is **Django backend development**.
 
-- **Network Engineering**: TCP/IP protocols, DNS configuration, routing, firewall setup, and network security
+I have worked on projects involving:
 
-- **Security Best Practices**: Implementing robust security measures across applications and infrastructure
+* Django application structure
+* Database models and relationships
+* Authentication and authorization
+* Shopping carts and order workflows
+* Payment and subscription workflows
+* CRM and ticketing systems
+* Notifications
+* Protected user content
+* External API integrations
+* Django ORM query optimization
+* Backend security practices
+* Automated testing
 
-### 📊 Quick Stats
+---
 
-- 👤 **Name**: Amir Neghabi
-- 💼 **Role**: Senior Backend Developer
-- 🐍 **Primary Language**: Python
-- 🎯 **Specialization**: Django Framework
-- 📅 **Joined GitHub**: April 10, 2024
-- 🌟 **Level**: Expert in Backend Development | Advanced in Network 
+## 📊 Quick Stats
+
+* 👤 **Name:** AmirReza Neghabi
+* 💼 **Focus:** Python / Django Backend Development
+* 🐍 **Primary Language:** Python
+* 🎯 **Main Framework:** Django
+* 📅 **Joined GitHub:** April 10, 2024
+* 🌐 **Networking:** Fundamental Knowledge
+* 📚 **Status:** Continuously Learning & Building
 
 ---
 
@@ -64,14 +79,14 @@ Beyond backend development, I bring valuable skills in:
 <td align="center" width="150">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" />
 <br><strong>Python</strong>
-<br><sub>Expert Level</sub>
+<br><sub>Primary Language</sub>
 </td>
+
 <td align="center" width="150">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65" height="65" />
 <br><strong>C++</strong>
-
-
-
+<br><sub>Academic Experience</sub>
+</td>
 </tr>
 </table>
 
@@ -83,11 +98,11 @@ Beyond backend development, I bring valuable skills in:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="80" height="80" />
 <br><strong>Django</strong>
 <br><sub>Primary Framework</sub>
-<br><sub>⭐⭐⭐⭐⭐</sub>
 </td>
-
 </tr>
 </table>
+
+**Also familiar with:** Django REST Framework and REST API fundamentals.
 
 ### 🗄️ Database Management
 
@@ -97,10 +112,12 @@ Beyond backend development, I bring valuable skills in:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65" />
 <br><strong>PostgreSQL</strong>
 </td>
+
 <td align="center" width="150">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" />
 <br><strong>MySQL</strong>
 </td>
+
 <td align="center" width="150">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="65" height="65" />
 <br><strong>SQLite</strong>
@@ -116,15 +133,20 @@ Beyond backend development, I bring valuable skills in:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" />
 <br><strong>HTML5</strong>
 </td>
+
 <td align="center" width="150">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" />
 <br><strong>CSS3</strong>
 </td>
+
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="65" height="65" />
+<br><strong>Bootstrap</strong>
+</td>
 </tr>
 </table>
 
-
-### 🔧 DevOps & Tools
+### 🔧 Development Tools
 
 <table>
 <tr>
@@ -132,16 +154,22 @@ Beyond backend development, I bring valuable skills in:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" />
 <br><strong>Git</strong>
 </td>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65" />
 <br><strong>GitHub</strong>
 </td>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" />
 <br><strong>Docker</strong>
-
+</td>
 </tr>
 </table>
+
+### 🌐 Networking Fundamentals
+
+`TCP/IP` • `DNS` • `HTTP/HTTPS` • `Routing Fundamentals` • `Client-Server Communication`
 
 </div>
 
@@ -158,6 +186,7 @@ Beyond backend development, I bring valuable skills in:
 <td width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=amirNeghabi&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub+Statistics" />
 </td>
+
 <td width="50%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirNeghabi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </td>
@@ -182,104 +211,61 @@ Beyond backend development, I bring valuable skills in:
 
 ## 💼 What I Build
 
-<div align="center">
+### 🏗️ Django Web Applications
 
-### 🏗️ Backend Architecture & Infrastructure
+I build project-based Django applications with a focus on understanding and implementing practical backend workflows.
 
-I specialize in building enterprise-level backend systems with focus on:
+### 🔐 Authentication & Authorization
 
-**⚡ RESTful API Development**
-- Designing and implementing scalable APIs using Django REST Framework
-- Building high-performance endpoints that handle thousands of requests
-- Creating comprehensive API documentation
+* Custom user workflows
+* Mobile OTP authentication
+* User access control
+* Protected resources and paid content
+* Ownership-based permissions
 
-**🔐 Security & Authentication**
-- Implementing JWT-based authentication systems
-- Role-based access control (RBAC)
-- OAuth2 integration and security best practices
+### 🗄️ Database & Django ORM
 
-**📊 Database Architecture**
-- Complex database design and optimization
-- Query optimization for better performance
-- Data modeling for scalable applications
+* Relational data modeling
+* Django ORM queries
+* `select_related` and `prefetch_related`
+* Database constraints
+* Transaction-based operations
+* Query optimization fundamentals
 
-**🌐 Network Infrastructure**
-- TCP/IP stack configuration and troubleshooting
-- DNS management and domain configuration
-- VPN setup and secure tunneling
-- Load balancing and high availability setup
-- Firewall configuration and network security
+### 🛒 E-commerce & Business Logic
 
-**🐧 Linux System Management**
-- Ubuntu/Debian/CentOS server administration
-- Bash scripting for automation tasks
-- System monitoring and performance tuning
-- Security hardening and best practices
-- CI/CD pipeline configuration
+* Product management
+* Shopping carts
+* Orders
+* Payment workflows
+* Subscription systems
+* Inventory-related workflows
 
-**🐳 Containerization & Deployment**
-- Docker containerization of applications
-- Multi-container orchestration
-- Production-ready deployment strategies
+### 📊 Business Applications
 
-**📡 Real-time Processing**
-- Building data processing pipelines
-- Real-time data handling and streaming
-- Background task management with Celery
+* CRM workflows
+* Lead and customer management
+* Ticketing systems
+* Notification systems
+* Administrative dashboards
 
-</div>
+### 🧪 Testing & Security
 
----
+* Django automated tests
+* Authorization and ownership tests
+* File and input validation
+* Regression testing
+* Security-focused backend improvements
+* Query performance tests
 
-## 🎨 My Development Philosophy
+### 🤖 Python Bots
 
-### Core Principles I Follow:
+I have also worked on Python-based bots for platforms such as:
 
-**✨ Clean Code**
-- Writing code that humans can easily read and maintain
-- Following PEP 8 standards and best practices
-- Comprehensive code documentation
+* Telegram
+* Bale
 
-**🚀 Scalability**
-- Designing systems that grow seamlessly with business needs
-- Thinking ahead about performance bottlenecks
-- Building with future expansion in mind
-
-**🔒 Security First**
-- Security is not optional, it's fundamental
-- Implementing security at every layer
-- Regular security audits and updates
-
-**⚡ Performance**
-- Optimizing for speed without sacrificing code quality
-- Database query optimization
-- Efficient algorithm implementation
-
-**📖 Documentation**
-- Good documentation saves time and prevents headaches
-- Clear API documentation
-- Comprehensive README files
-
-**🧪 Testing**
-- Test early, test often, deploy confidently
-- Unit tests and integration tests
-- Continuous integration practices
-
-### 🎯 Areas of Expertise:
-
-**Network Engineering Skills:**
-- TCP/IP Stack Configuration
-- DNS & Domain Management
-- VPN & Secure Tunneling
-- Load Balancing & High Availability
-- Firewall Rules & Network Security
-
-**Linux System Administration:**
-- Ubuntu/Debian/CentOS Server Management
-- Bash Scripting & Task Automation
-- System Monitoring & Log Analysis
-- Performance Optimization
-- Security Hardening & Best Practices
+These projects helped me practice event-driven application logic, user interaction flows, automation, and backend-oriented Python development.
 
 ---
 
@@ -289,32 +275,91 @@ I specialize in building enterprise-level backend systems with focus on:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔥 Enterprise Django Application
+### 🔥 Trading Services Platform
 
-**Key Features:**
-- RESTful API with 50+ endpoints
-- JWT Authentication with role-based access control
-- PostgreSQL database with complex relationships
-- Docker containerization for easy deployment
-- Handles 10,000+ requests per minute
-- Comprehensive API documentation
-- Unit and integration test coverage
+**Django • MySQL • Docker**
+
+A Django platform for managing digital services and subscriptions.
+
+**Main Features:**
+
+* Mobile OTP authentication
+* Service plans and subscriptions
+* Protected paid content
+* CRM for leads and customers
+* Ticketing system
+* User notifications
+* Blog and administrative dashboard
+* External cryptocurrency market data
+* Payment and subscription workflows
+* Database integrity constraints
+* Automated security and performance tests
+
+🔗 [View Repository](https://github.com/amirNeghabi/trading_company)
 
 </td>
-<td width="50%">
 
-### 💎 Network Automation Suite
+<td width="50%" valign="top">
 
-**Key Features:**
-- Python-based network device configuration
-- Automated infrastructure management
-- Real-time monitoring dashboard
-- Linux server orchestration
-- Security compliance automation
-- Multi-vendor device support
-- Scheduled task execution
+### 👓 Eyewear E-commerce Platform
+
+**Django • PostgreSQL • Docker**
+
+**Status: In Development / Private**
+
+A personal e-commerce project intended to become a real online eyewear business.
+
+**Main Areas:**
+
+* Product and variant management
+* Shopping cart
+* Ordering workflows
+* Inventory management
+* Payment workflows
+* User accounts
+* Responsive RTL storefront
+* Eyewear recommendations based on face-shape analysis
+* Security-focused backend development
+* Automated testing
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Django Digital Store
+
+A Django e-commerce project covering common online-store workflows.
+
+**Features:**
+
+* Products
+* Shopping cart
+* Orders
+* User accounts
+* Payment workflow
+* Support functionality
+
+🔗 [View Repository](https://github.com/amirNeghabi/django-digital-store)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛍️ Django Online Shop
+
+A learning-oriented Django project covering:
+
+* Product management
+* Authentication
+* Shopping cart
+* Checkout
+* Django application structure
+
+🔗 [View Repository](https://github.com/amirNeghabi/online_shop)
 
 </td>
 </tr>
@@ -324,34 +369,89 @@ I specialize in building enterprise-level backend systems with focus on:
 
 ---
 
+## 🤖 Telegram & Bale Bot Projects
+
+Alongside Django projects, I have built several Python-based bots for **Telegram and Bale**.
+
+These projects have involved areas such as:
+
+* User interaction workflows
+* Command and message handling
+* Automation
+* Service-oriented bot logic
+* Working with external data and APIs
+* Building practical tools for real users
+
+Some of these projects are private or were developed for specific use cases.
+
+---
+
+## 🎨 My Development Philosophy
+
+### ✨ Keep Learning
+
+I believe consistent project-based learning is one of the best ways to improve as a developer.
+
+### 🔒 Security Matters
+
+I try to consider authentication, authorization, validation, and safe data handling while developing backend applications.
+
+### ⚡ Performance Matters
+
+I pay attention to unnecessary database queries and try to use Django ORM efficiently.
+
+### 🧪 Test Important Workflows
+
+For important backend logic, I try to validate both expected behavior and failure scenarios through automated tests.
+
+### 📖 Understand the Code
+
+My goal is not only to make features work, but also to understand the logic and concepts behind their implementation.
+
+---
+
+## 📚 Currently Improving
+
+* Python
+* Django
+* Django REST Framework
+* SQL and relational databases
+* Automated testing
+* Data structures and algorithms
+* Backend security
+* Backend performance
+* Computer networking fundamentals
+
+---
+
 ## 📫 Let's Connect & Collaborate
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square)](mailto:Amirrezaneghabi001@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&style=flat-square)](YOUR_PORTFOLIO_URL)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=flat-square)](@Amir_Neghabi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/amirreza-neghabi-b854423a0)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Amirrezaneghabi001@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/amirNeghabi)
 
 ### 💬 Open for Opportunities
 
-I'm actively looking for:
+I'm interested in opportunities related to:
 
-- 🤝 **Collaboration on Django Projects** - Let's build something amazing together
-- 💼 **Freelance Backend Development** - Available for contract work
-- 🎓 **Mentoring Junior Developers** - Sharing knowledge and helping others grow
-- 🔧 **Open Source Contributions** - Contributing to meaningful projects
-- 🌐 **Network Engineering Consulting** - Infrastructure design and optimization
+* 🐍 Python Backend Development
+* 🎯 Django Backend Development
+* 💼 Junior Backend Developer positions
+* 🎓 Backend internships
+* 🤝 Project collaboration
 
 ### 🎯 Current Focus
 
-- Building scalable Django applications
-- Exploring advanced Python patterns
-- Learning cloud infrastructure (AWS/Azure)
-- Contributing to open-source projects
-- Writing technical blog posts
+* Improving Django backend development
+* Strengthening Python fundamentals
+* Learning Django REST Framework
+* Improving SQL and database knowledge
+* Practicing automated testing
+* Learning backend security and performance concepts
 
 <img src="https://komarev.com/ghpvc/?username=amirNeghabi&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
 
